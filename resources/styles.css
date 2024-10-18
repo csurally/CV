@@ -286,6 +286,19 @@ p {
   width: 20px;
   margin: 0 10px;
 }
+
+/* **** Get In Touch ***** */
+
+.about a {
+  color: #03a9f4;
+  text-decoration: none;
+}
+.about a:hover {
+  color: #333333;
+  transition-duration: 1s;
+  transition-delay: 0.1s;
+}
+
 /* **** Media Queries ***** */
 @media (max-width: 1000px) {
   .container {
