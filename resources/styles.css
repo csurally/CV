@@ -337,5 +337,6 @@ p {
   }
   .certImages .imgCert img {
     margin: 20px auto;
+    width: 165px;
   }
 }
